@@ -1,0 +1,3 @@
+gasmixture       run       grade duration_s  B      hv      hv_guard    threshold_mV  flow_rate
+heic4h10_9010    1009      1     1000        0      1800    1800        10            1.0
+heic4h10_9010    1010      1     1000        0      1800    1800        20            1.0
